@@ -1,3 +1,22 @@
-.h1{
-    color: rgb(90, 0, 0);
+*{
+    margin: 0px;
+    font-weight: 900;
+}
+nav{
+    padding: 10px;
+    border: 2px solid black;
+}
+.a{
+    border: 2px solid black;
+    text-align: center;
+    padding: 30px;
+    background-color: black;
+    color: white;
+
+}
+#main{
+    color:rgb(255, 217, 0);
+}
+span{
+     margin: 100px;
 }
